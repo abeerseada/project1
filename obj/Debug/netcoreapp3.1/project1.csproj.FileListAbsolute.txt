@@ -1,0 +1,14 @@
+/Users/abeerabdelhameed/Projects/project1/project1/bin/Debug/netcoreapp3.1/project1
+/Users/abeerabdelhameed/Projects/project1/project1/bin/Debug/netcoreapp3.1/project1.deps.json
+/Users/abeerabdelhameed/Projects/project1/project1/bin/Debug/netcoreapp3.1/project1.runtimeconfig.json
+/Users/abeerabdelhameed/Projects/project1/project1/bin/Debug/netcoreapp3.1/project1.runtimeconfig.dev.json
+/Users/abeerabdelhameed/Projects/project1/project1/bin/Debug/netcoreapp3.1/project1.dll
+/Users/abeerabdelhameed/Projects/project1/project1/bin/Debug/netcoreapp3.1/project1.pdb
+/Users/abeerabdelhameed/Projects/project1/project1/obj/Debug/netcoreapp3.1/project1.csproj.AssemblyReference.cache
+/Users/abeerabdelhameed/Projects/project1/project1/obj/Debug/netcoreapp3.1/project1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abeerabdelhameed/Projects/project1/project1/obj/Debug/netcoreapp3.1/project1.AssemblyInfoInputs.cache
+/Users/abeerabdelhameed/Projects/project1/project1/obj/Debug/netcoreapp3.1/project1.AssemblyInfo.cs
+/Users/abeerabdelhameed/Projects/project1/project1/obj/Debug/netcoreapp3.1/project1.csproj.CoreCompileInputs.cache
+/Users/abeerabdelhameed/Projects/project1/project1/obj/Debug/netcoreapp3.1/project1.dll
+/Users/abeerabdelhameed/Projects/project1/project1/obj/Debug/netcoreapp3.1/project1.pdb
+/Users/abeerabdelhameed/Projects/project1/project1/obj/Debug/netcoreapp3.1/project1.genruntimeconfig.cache

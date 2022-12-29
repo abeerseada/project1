@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UHmRKSIhR/01zRPt0EKdxMhi3sr6NcHLlVNk8Eh4cDmzHaURQ+viSNsIHGgKt7c712oxUTE+x3WaNVMHZveIzA==",
+  "success": true,
+  "projectFilePath": "/Users/abeerabdelhameed/Projects/project1/project1/project1.csproj",
+  "expectedPackageFiles": [
+    "/Users/abeerabdelhameed/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/abeerabdelhameed/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
+    "/Users/abeerabdelhameed/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
